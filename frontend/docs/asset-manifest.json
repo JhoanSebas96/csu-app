@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6ffe572.css",
+    "main.js": "/static/js/main.06a6ed38.js",
+    "static/media/video.mp4": "/static/media/video.d3ce47056d37901b502a.mp4",
+    "static/media/Banner1.png": "/static/media/Banner1.36da4b370066ee16a1f9.png",
+    "static/media/lapiz.png": "/static/media/lapiz.7e42b81ba19338a3ecf1.png",
+    "static/media/escritorio.png": "/static/media/escritorio.a7e3f5e4560053443b80.png",
+    "static/media/libro.png": "/static/media/libro.dd08a8340b474ad9c612.png",
+    "static/media/footer.png": "/static/media/footer.5a7ef8dc6c4ac313582e.png",
+    "static/media/circular.png": "/static/media/circular.e2b99d936c99fff1b686.png",
+    "static/media/footer960.png": "/static/media/footer960.7fe1b1caa419663889ee.png",
+    "static/media/CSUYOPAL.png": "/static/media/CSUYOPAL.a610f6d48c962e0d03c2.png",
+    "index.html": "/index.html",
+    "main.a6ffe572.css.map": "/static/css/main.a6ffe572.css.map",
+    "main.06a6ed38.js.map": "/static/js/main.06a6ed38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6ffe572.css",
+    "static/js/main.06a6ed38.js"
+  ]
+}
