@@ -1,0 +1,51 @@
+.container{
+  max-width: 100rem;
+  margin: 2rem auto ;
+  width: 90%;
+}
+.container > div {
+  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+} 
+/* div .vision {
+  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+} 
+div .nosotros {
+  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}  */
+
+ .textos{
+  padding: 2rem;
+}
+.textos h1{
+  padding-bottom: 2rem;
+  text-align: center;
+}
+
+.textos p{
+  padding: 0.5rem ;
+  text-align:justify;
+}
+
+.img1{
+  object-fit: cover;
+  width: 100%;
+}
+
+@media screen and (max-width: 960px) {
+  .container > div{
+    display: block;
+  }
+  div .mision{
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
